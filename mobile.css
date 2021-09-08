@@ -1,0 +1,162 @@
+*{
+
+text-align: center
+
+}
+
+
+h1{
+
+    text-align: center;
+    font-family: 'Asap', sans-serif;
+font-size: 2.6rem;
+
+    }
+    
+    
+.form{
+
+text-align: center;
+
+
+}
+
+
+.id,.password{
+
+
+font-size: 1.3rem;
+padding: 20px 35px;
+border-radius: 8px;
+margin: 5px;
+border: 2px #EEEEEE solid;
+transition: 0.3s linear;
+
+
+}
+
+
+.form p a{
+
+    font-family: 'Asap', sans-serif;
+    color: #0D66FF;
+   cursor: pointer;  
+   text-decoration: none;
+   font-size: 1.2rem;
+   color: black;
+
+}
+
+.form .forgot{
+
+    color: #0D66FF;
+
+
+    
+}
+
+.rem{
+
+    font-family: 'Asap', sans-serif;
+    font-size: 1.2rem;
+}
+
+
+
+.login-desc p{
+
+text-align: center;
+font-size: 1.1rem;
+font-family: 'Asap', sans-serif;    
+
+}
+
+.login-desc a{
+
+text-decoration: none;
+
+}
+
+hr{
+
+ margin-top: 30px;
+width: 300px;
+border: 1px solid #D3D3E0;
+
+}
+
+.login-btn{
+
+text-align: center;
+
+
+}
+
+.btn{
+cursor: pointer;
+padding: 10px;
+height: 70px;
+width: 320px;
+border-radius: 10px;
+border: none;
+background-color: #343A40;
+color: white;
+font-size:1.4rem;
+font-family: 'Asap', sans-serif;
+
+}
+
+
+
+.login-else{
+
+text-align: center;
+
+
+}
+
+
+.login-else .sign{
+
+    cursor: pointer;
+    padding: 10px;
+    height: 70px;
+    width: 320px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0D66FF;
+    color: white;
+    font-size:1.2rem;
+    font-family: 'Asap', sans-serif;
+
+}
+
+.id{
+
+    background-image: url(Images/phone.png);
+    background-repeat: no-repeat;
+    background-position: 5px 18px;
+    padding-left: 35px;
+    
+    }
+    
+ .password{
+    
+    
+        background-image: url(Images/lock.png);
+        background-repeat: no-repeat;
+        background-position: 5px 18px;
+        padding-left: 35px;
+    
+    }
+
+    .sign{
+
+background-image: url(Images/logo1.png);
+background-repeat: no-repeat;
+background-size: 35px;
+background-position: 15px 18px;
+
+
+
+    }
